@@ -1,6 +1,6 @@
 # 📊 Eniac Discounts Case Study — Data Analysis with Python & Pandas
 
-![Eniac Banner](./A_banner_image_for_a_project_titled_"Eniac_Discoun.png)
+![Banner](banner.png) 
 
 ## 💼 Overview
 
